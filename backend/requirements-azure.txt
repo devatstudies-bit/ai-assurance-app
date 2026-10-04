@@ -1,0 +1,3 @@
+# Azure AI Red Teaming Agent (section 7.2); framework reviewed against SDK 1.18. Pin the version you verify.
+azure-ai-evaluation[redteam]>=1.18
+azure-identity>=1.17

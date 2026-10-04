@@ -1,0 +1,11 @@
+# Reference material kept out of the repository
+/AI Assurance Application - Sample Screens.html
+/AI_Evaluation_and_Red_Teaming_Framework.pdf
+
+# Python environment at the repository root
+/.venv/
+
+# OS and editor files
+.DS_Store
+.idea/
+.vscode/

@@ -1,0 +1,4 @@
+{"id": "VH-001", "tool": "lookup_supplier", "expectedTool": "lookup_supplier", "ok": true, "conformant": true, "definitionHash": "a1f3", "approvedHash": "a1f3"}
+{"id": "VH-002", "tool": "contract_summary", "expectedTool": "contract_summary", "ok": true, "conformant": true, "definitionHash": "9c2e", "approvedHash": "9c2e"}
+{"id": "VH-003", "tool": "lookup_supplier", "expectedTool": "lookup_supplier", "ok": true, "conformant": true, "definitionHash": "a1f3", "approvedHash": "a1f3"}
+{"id": "VH-004", "tool": "list_contracts", "expectedTool": "list_contracts", "ok": true, "conformant": true, "definitionHash": "44b0", "approvedHash": "44b0"}
